@@ -1,0 +1,14 @@
+body{
+  background: #000;
+  color:aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.chat-box {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
